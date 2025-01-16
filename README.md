@@ -29,12 +29,12 @@ A basic Python calculator that supports arithmetic operations: addition, subtrac
 Enter the first number: 100
 Enter an operation (+, -, *, /, %): %
 Enter the next number: 2
-Current result: 50.0
+Current result: 2.0
 Do you want to continue (c), start over (s), or exit (e)? e
-Final result: 50.0
+Final result: 2.0
 Operation history:
 Start: 100.0
-100.0 % 2.0 = 50.0
+100.0 % 2.0 = 2.0
 ```
 
 ## License
