@@ -13,7 +13,7 @@ A basic Python calculator that supports arithmetic operations: addition, subtrac
 2. Run the Python script:
 
    ```bash
-   python simple_calculator.py
+   python calculator.py
    ```
 
 ## Usage
